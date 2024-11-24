@@ -1,6 +1,0 @@
-abs
-jkl
-fghj
-ieruyt
-some new info
-let's try -a key for commit command
